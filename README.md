@@ -1,4 +1,4 @@
-# XcodeTemplates
+# Custom Clean Swift XcodeTemplates
 
 ## Prerequisites
 
